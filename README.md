@@ -1,3 +1,5 @@
+# Warning: This is still alpha. Expect it to break.
+
 # flatui-radiocheck
 jQuery radiocheck plugin lifted from https://github.com/designmodo/Flat-UI
 
