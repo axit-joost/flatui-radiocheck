@@ -86,20 +86,6 @@
       if (typeof option == 'string') {
         data[option]();
       }
-
-      // Adding 'nohover' class for mobile devices
-
-      if (global.navigator.userAgent) {
-          var mobile = /mobile|tablet|phone|ip(ad|od)|android|silk|webos/i.test(global.navigator.userAgent);
-
-          if (mobile === true) {
-            $this.parent().hover(function () {
-              $this.addClass('nohover');
-            }, function () {
-              $this.removeClass('nohover');
-            });
-          }
-      }
     });
   }
 

@@ -1,6 +1,6 @@
 {
   "name": "flatui-radiocheck",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "jQuery radiocheck plugin lifted from https://github.com/designmodo/Flat-UI",
   "main": "radiocheck.js",
   "scripts": {
