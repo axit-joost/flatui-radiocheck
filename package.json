@@ -1,0 +1,26 @@
+{
+  "name": "flatui-radiocheck",
+  "version": "0.1.0",
+  "description": "jQuery radiocheck plugin lifted from https://github.com/designmodo/Flat-UI",
+  "main": "radiocheck.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axit-joost/flatui-radiocheck.git"
+  },
+  "keywords": [
+    "Flat-UI",
+    "radiocheck",
+    "custom",
+    "radio",
+    "checkboxes"
+  ],
+  "author": "Joost Jacobs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axit-joost/flatui-radiocheck/issues"
+  },
+  "homepage": "https://github.com/axit-joost/flatui-radiocheck#readme"
+}
